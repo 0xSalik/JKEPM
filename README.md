@@ -8,7 +8,7 @@ Unofficial android app for the J&K Government Employee Performance Management Sy
 
 _Installing the app:_
 
-- Go to the releases section and download the latest apk file named `com.salikkhan.jkepm.apk`.
+- Go to the releases section and download the latest apk file named `com.salikkhan.jkepm.apk`. OR [Click this link](https://cdn.salikkhan.com/com.salikkkhan.jkepm.apk) to download it.
 - Once downloaded, open the file and install it.
 - In case Google gives you a warning, click install anyway.
 
